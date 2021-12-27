@@ -18,8 +18,8 @@ Happy Hacking💙!
 ## Table of Contents
 
 - [🧠 The Challenge](#-the-challenge)
-  - [📖 The Text](#️-the-text)
-  - [🤟 Your Questions](#-your-questions)
+- [📖 The Text](#️-the-text)
+- [🤟 Your Questions](#-your-questions)
 - [✔️ Avaluation Criteria](#️-avaluation-criteria)
 - [:notebook: To-do list](#notebook-to-do-list)
 - [You can](#-you-can)
@@ -33,10 +33,17 @@ You can find the Text placed in [here](https://www.ncbi.nlm.nih.gov/pmc/articles
 
 #### 🤟 Your Questions
 
-- [ ] What is an AGI?
-- [ ] How NLP (Natural Language Processing) works and where can we use it?
-- [ ] Can you name 3 practical ways AI could help people with disability? How?
-- [ ] About the negative impact of AI which concerns you the most? Why?
+- [x] What is an AGI?
+- [x] How NLP (Natural Language Processing) works and where can we use it?
+- [x] Can you name 3 practical ways AI could help people with disability? How?
+- [x] About the negative impact of AI which concerns you the most? Why?
+
+### Answers
+
+- AGI stands for artificial general intelligence, a type of AI, that if created, can have the same capacity of learning as a human being.
+- NLP (Natural language processing) aims to make a computer program process the human language and have various strategies on how to do that, such as topic modeling, a example of that can be feelings analysis of what was written.
+- Some ways that I think an AI can help people with disabilities are: an AI that can interpret(express emotions) text from books or any source, independent in-home living through AI-assisted houses, and self-driving cars
+- Affect our decision making for the worst by having humans dependent on it over time and then turning us unable to decide something for ourselves
 
 ## ✔️ Avaluation Criteria
 
@@ -47,9 +54,9 @@ You can find the Text placed in [here](https://www.ncbi.nlm.nih.gov/pmc/articles
 
 ### :notebook: To-do list
 
-- [ ] Fully read the Text
-- [ ] Answer the Questions *in English*
-- [ ] Submit your answers
+- [x] Fully read the Text
+- [x] Answer the Questions *in English*
+- [x] Submit your answers
 
 
 ### You can:
